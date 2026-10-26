@@ -3,3 +3,6 @@ https://yallashoot-today.github.io/sirasatvus-click/today.html
 https://yallashoot-today.github.io/sirasatvus-click/tomorrow.html
 https://yallashoot-today.github.io/sirasatvus-click/yesterday.html
 https://yallashoot-today.github.io/sirasatvus-click/leagues.html
+https://yallashoot-today.github.io/sirasatvus-click/article-live-guide.html
+https://yallashoot-today.github.io/sirasatvus-click/article-tournaments-coverage.html
+https://yallashoot-today.github.io/sirasatvus-click/article-bein-sports-channels.html
